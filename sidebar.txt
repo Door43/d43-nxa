@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nxa:home|Door43 (nxa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nxa|d43-nxa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nxa/archive/master.zip|d43-nxa.zip]]
+
+**Recent Changes**
+{{changes>ns = nxa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nxa|Ethnologue data]]
+
